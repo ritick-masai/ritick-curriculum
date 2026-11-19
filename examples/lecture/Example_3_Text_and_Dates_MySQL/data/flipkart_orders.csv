@@ -1,0 +1,121 @@
+order_id,customer_name,city,email,product_name,order_date,promised_date,delivered_date,quantity,unit_price,discount_pct,status
+1001,Vikram Sharma,Delhi,vikram.sharma98@example.com,Backpack,2026-01-03,2026-01-08,2026-01-06,2,1099,20.0,Delivered
+1002,Priya Das,Mumbai,priya.das81@example.com,Desk Lamp,2026-01-23,2026-01-27,2026-01-27,2,649,20.0,Delivered
+1003,Priya Iyer,Chennai,priya.iyer34@example.com,Desk Lamp,2026-01-11,2026-01-14,2026-01-13,2,649,5.0,Delivered
+1004,Kavya Nair,Kolkata,kavya.nair3@example.com,Phone Case,2026-02-10,2026-02-14,2026-02-25,40,299,20.0,Delivered
+1005,Sneha Nair,Mumbai,sneha.nair85@example.com,Wireless Mouse,2026-01-23,2026-01-26,,3,499,15.0,Cancelled
+1006,Suresh Khan,Delhi,suresh.khan68@example.com,Phone Case,2025-12-10,2025-12-14,,1,299,20.0,Cancelled
+1007,Meera Menon,Mumbai,meera.menon97@example.com,Desk Lamp,2025-11-30,2025-12-04,2025-12-06,1,649,5.0,Delivered
+1008,Suresh Reddy,Delhi,suresh.reddy7@example.com,Phone Case,2026-01-27,2026-01-30,2026-01-30,3,299,5.0,Delivered
+1009,Karthik Menon,Bengaluru,karthik.menon9@example.com,Bluetooth Speaker,2026-03-08,2026-03-12,,1,1299,,In Transit
+1010,Rahul Reddy,Hyderabad,rahul.reddy9@example.com,Wireless Mouse,2025-11-16,2025-11-22,2025-11-24,1,499,,Delivered
+1011,Ananya Iyer,Pune,ananya.iyer2@example.com,Wireless Mouse,2026-02-27,2026-03-02,2026-03-02,2,499,,Delivered
+1012,Aarav Sharma,Kolkata,aarav.sharma69@example.com,Bluetooth Speaker,2026-02-09,2026-02-14,2026-02-14,2,1299,10.0,Delivered
+1013,Sneha Singh,Delhi,sneha.singh8@example.com,Steel Bottle,2026-01-07,2026-01-10,2026-01-09,3,349,20.0,Delivered
+1014,Vikram Reddy,Mumbai,vikram.reddy69@example.com,Bluetooth Speaker,2026-01-14,2026-01-19,2026-01-24,1,1299,20.0,Delivered
+1015,Nisha Singh,Pune,nisha.singh2@example.com,Steel Bottle,2025-11-03,2025-11-07,2025-11-08,1,349,,Delivered
+1016,Imran Reddy,Chennai,imran.reddy91@example.com,Wireless Mouse,2025-11-01,2025-11-05,2025-11-04,2,499,15.0,Delivered
+1017,Rohan Patel,Pune,rohan.patel63@example.com,Backpack,2026-01-04,2026-01-10,2026-01-10,1,1099,10.0,Delivered
+1018,Rahul Patel,Delhi,rahul.patel7@example.com,Wireless Mouse,2025-11-24,2025-11-29,2025-11-27,1,499,5.0,Delivered
+1019,Divya Sharma,Pune,divya.sharma32@example.com,Steel Bottle,2026-01-28,2026-02-02,2026-02-05,3,349,5.0,Delivered
+1020,Rohan Das,Chennai,rohan.das66@example.com,Phone Case,2025-12-03,2025-12-09,,4,299,20.0,Cancelled
+1021,Priya Sharma,Chennai,priya.sharma90@example.com,Cotton Kurta,2025-11-20,2025-11-26,2025-11-27,1,799,10.0,Delivered
+1022,  Aarav Sharma,bengaluru,Aarav.Sharma@Example.com,Wireless Mouse,2025-12-31,2026-01-03,2026-01-02,1,499,10.0,Delivered
+1023,Pooja Iyer,Hyderabad,pooja.iyer10@example.com,Cotton Kurta,2025-12-23,2025-12-29,2025-12-30,3,799,0.0,Delivered
+1024,Pooja Menon,Kolkata,pooja.menon8@example.com,Phone Case,2026-03-12,2026-03-16,,1,299,0.0,Cancelled
+1025,Sneha Patel,Chennai,sneha.patel17@example.com,Steel Bottle,2026-01-15,2026-01-19,2026-01-18,1,349,15.0,Delivered
+1026,Priya Menon,Bengaluru,priya.menon17@example.com,Phone Case,2026-01-25,2026-01-30,2026-01-29,2,299,0.0,Delivered
+1027,Arjun Gupta,Hyderabad,arjun.gupta86@example.com,Desk Lamp,2026-02-17,2026-02-22,2026-02-22,1,649,0.0,Delivered
+1028,Rahul Gupta,Delhi,rahul.gupta26@example.com,Phone Case,2026-01-28,2026-02-01,2026-02-01,4,299,0.0,Delivered
+1029,Imran Khan,Delhi,imran.khan7@example.com,Backpack,2026-01-10,2026-01-14,2026-01-14,1,1099,15.0,Delivered
+1030,Ananya Sharma,Chennai,ananya.sharma89@example.com,Phone Case,2026-03-02,2026-03-07,,3,299,15.0,In Transit
+1031,Sneha Gupta,Hyderabad,sneha.gupta8@example.com,Backpack,2025-11-08,2025-11-12,2025-11-11,2,1099,10.0,Delivered
+1032,Meera Das,Chennai,meera.das11@example.com,Backpack,2025-12-25,2025-12-28,2025-12-30,1,1099,15.0,Delivered
+1033,Aarav Reddy,Delhi,aarav.reddy69@example.com,Backpack,2026-02-13,2026-02-17,,3,1099,,Cancelled
+1034,Sneha Khan,Chennai,sneha.khan56@example.com,Steel Bottle,2026-02-03,2026-02-07,2026-02-09,1,349,10.0,Delivered
+1035,Pooja Nair,Pune,pooja.nair11@example.com,Bluetooth Speaker,2026-02-18,2026-02-22,2026-02-21,2,1299,20.0,Delivered
+1036,Rohan Gupta,Chennai,rohan.gupta32@example.com,Running Shoes,2025-12-23,2025-12-29,2025-12-30,1,2199,15.0,Delivered
+1037,Nisha Patel,Kolkata,nisha.patel44@example.com,Backpack,2026-01-08,2026-01-11,2026-01-11,4,1099,0.0,Delivered
+1038,Pooja Nair,Kolkata,pooja.nair2@example.com,Steel Bottle,2026-01-07,2026-01-11,2026-01-09,1,349,15.0,Delivered
+1039,Sneha Patel,Kolkata,sneha.patel27@example.com,Bluetooth Speaker,2026-03-05,2026-03-10,,1,1299,20.0,In Transit
+1040,Kavya Patel,Chennai,kavya.patel23@example.com,Steel Bottle,2025-11-06,2025-11-09,2025-11-08,3,349,0.0,Delivered
+1041,Rahul Khan,Mumbai,rahul.khan63@example.com,Steel Bottle,2025-11-27,2025-12-02,2025-12-02,4,349,20.0,Delivered
+1042,Priya Menon,Kolkata,priya.menon3@example.com,Desk Lamp,2025-11-22,2025-11-25,2025-11-27,2,649,5.0,Delivered
+1043,Ananya Khan,Hyderabad,ananya.khan50@example.com,Cotton Kurta,2026-02-08,2026-02-12,2026-02-12,2,799,5.0,Delivered
+1044,Ananya Singh,Delhi,ananya.singh55@example.com,Cotton Kurta,2025-12-09,2025-12-13,2025-12-11,3,799,,Delivered
+1045,Arjun Menon,Bengaluru,arjun.menon26@example.com,Backpack,2025-12-19,2025-12-25,2025-12-25,2,1099,5.0,Delivered
+1046,Nisha Singh,Delhi,nisha.singh81@example.com,Phone Case,2025-11-20,2025-11-23,2025-11-23,1,299,0.0,Delivered
+1047,Kavya Gupta,Pune,kavya.gupta78@example.com,Steel Bottle,2026-03-12,2026-03-17,,2,349,10.0,In Transit
+1048,Priya Gupta,Bengaluru,priya.gupta96@example.com,Backpack,2026-01-13,2026-01-17,2026-01-18,2,1099,,Delivered
+1049,Imran Gupta,Delhi,imran.gupta1@example.com,Bluetooth Speaker,2025-11-16,2025-11-20,2025-11-20,1,1299,0.0,Delivered
+1050,Vikram Menon,Hyderabad,vikram.menon74@example.com,Desk Lamp,2026-02-18,2026-02-22,2026-02-22,4,649,,Delivered
+1051,Nisha Gupta,Delhi,NISHA.GUPTA@EXAMPLE.COM,Steel Bottle,2025-12-28,2026-01-01,2025-12-31,1,349,0.0,Delivered
+1052,Nisha Khan,Mumbai,nisha.khan71@example.com,Phone Case,2025-12-06,2025-12-09,2025-12-09,1,299,,Delivered
+1053,Aarav Nair,Kolkata,aarav.nair74@example.com,Wireless Mouse,2026-03-04,2026-03-07,,3,499,15.0,In Transit
+1054,Suresh Reddy,Mumbai,suresh.reddy76@example.com,Running Shoes,2026-01-28,2026-01-31,2026-01-29,1,2199,5.0,Delivered
+1055,Rahul Reddy,Mumbai,rahul.reddy81@example.com,Backpack,2025-11-03,2025-11-06,2025-11-08,2,1099,5.0,Delivered
+1056,Sneha Khan,Hyderabad,sneha.khan49@example.com,Bluetooth Speaker,2026-01-14,2026-01-17,,1,1299,15.0,Cancelled
+1057,Arjun Gupta,Pune,arjun.gupta81@example.com,Running Shoes,2026-03-10,2026-03-15,,1,2199,10.0,In Transit
+1058,Priya Sharma,Delhi,priya.sharma86@example.com,Bluetooth Speaker,2026-02-03,2026-02-07,2026-02-06,2,1299,0.0,Delivered
+1059,Kavya Menon,Mumbai,kavya.menon19@example.com,Steel Bottle,2025-11-07,2025-11-11,2025-11-10,2,349,5.0,Delivered
+1060,Ananya Menon,Delhi,ananya.menon89@example.com,Wireless Mouse,2025-11-10,2025-11-16,2025-11-17,2,499,15.0,Delivered
+1061,Meera,Mumbai,,Desk Lamp,2026-02-02,2026-02-06,2026-02-06,1,649,,Delivered
+1062,Suresh Gupta,Pune,suresh.gupta10@example.com,Steel Bottle,2025-12-16,2025-12-20,2025-12-20,4,349,0.0,Delivered
+1063,Imran Sharma,Delhi,imran.sharma69@example.com,Bluetooth Speaker,2026-02-13,2026-02-19,2026-02-18,1,1299,5.0,Delivered
+1064,Arjun Menon,Bengaluru,arjun.menon81@example.com,Running Shoes,2025-11-03,2025-11-06,2025-11-07,2,2199,20.0,Delivered
+1065,Kavya Iyer,Kolkata,kavya.iyer38@example.com,Phone Case,2026-01-15,2026-01-21,2026-01-21,3,299,15.0,Delivered
+1066,Divya Nair,Chennai,divya.nair78@example.com,Backpack,2025-11-13,2025-11-16,2025-11-14,4,1099,0.0,Delivered
+1067,Meera Sharma,Mumbai,meera.sharma13@example.com,Bluetooth Speaker,2026-02-13,2026-02-17,2026-02-19,4,1299,15.0,Delivered
+1068,Suresh Singh,Delhi,suresh.singh43@example.com,Steel Bottle,2026-02-23,2026-03-01,2026-02-28,3,349,5.0,Delivered
+1069,Imran Singh,Pune,imran.singh5@example.com,Steel Bottle,2025-12-24,2025-12-28,2025-12-29,1,349,10.0,Delivered
+1070, Suresh  Singh ,chennai,suresh.singh@example.com,Backpack,2026-03-01,2026-03-05,2026-03-05,1,1099,5.0,Delivered
+1071,Karthik Menon,Hyderabad,karthik.menon93@example.com,Phone Case,2025-12-11,2025-12-17,2025-12-17,1,299,15.0,Delivered
+1072,Kavya Iyer,Mumbai,kavya.iyer81@example.com,Desk Lamp,2025-12-04,2025-12-09,2025-12-09,1,649,20.0,Delivered
+1073,Priya Menon,Chennai,priya.menon67@example.com,Phone Case,2026-02-21,2026-02-25,2026-02-23,2,299,20.0,Delivered
+1074,Vikram Gupta,Chennai,vikram.gupta51@example.com,Cotton Kurta,2025-12-26,2025-12-29,2025-12-29,2,799,5.0,Delivered
+1075,Aarav Sharma,Bengaluru,aarav.sharma@example.com,Desk Lamp,2026-01-05,2026-01-09,2026-01-09,1,649,0.0,Delivered
+1076,Kavya Singh,Bengaluru,kavya.singh79@example.com,Phone Case,2025-12-02,2025-12-06,2025-12-07,1,299,10.0,Delivered
+1077,Rohan Das,Delhi,rohan.das85@example.com,Bluetooth Speaker,2025-12-19,2025-12-22,2025-12-21,2,1299,5.0,Delivered
+1078,Sneha Patel,Pune,sneha.patel12@example.com,Running Shoes,2026-01-20,2026-01-20,2026-01-20,1,2199,20.0,Delivered
+1079,Ananya Gupta,Bengaluru,ananya.gupta88@example.com,Running Shoes,2026-01-07,2026-01-10,,1,2199,20.0,Cancelled
+1080,Arjun Sharma,Chennai,arjun.sharma57@example.com,Wireless Mouse,2026-02-15,2026-02-21,2026-02-20,4,499,5.0,Delivered
+1081,Ananya Patel,Delhi,ananya.patel16@example.com,Phone Case,2025-12-29,2026-01-03,2026-01-02,4,299,5.0,Delivered
+1082,Priya Reddy,Delhi,priya.reddy29@example.com,Wireless Mouse,2025-11-06,2025-11-10,2025-11-11,3,499,0.0,Delivered
+1083,Sneha Menon,Pune,sneha.menon17@example.com,Phone Case,2025-12-25,2025-12-29,,2,299,,Cancelled
+1084,Kavya Khan,Delhi,kavya.khan36@example.com,Backpack,2025-11-04,2025-11-09,,2,1099,0.0,Cancelled
+1085,Imran Singh,Bengaluru,imran.singh54@example.com,Bluetooth Speaker,2026-01-09,2026-01-12,,1,1299,5.0,Cancelled
+1086,Pooja Sharma,Chennai,pooja.sharma32@example.com,Wireless Mouse,2025-11-09,2025-11-14,2025-11-14,4,499,,Delivered
+1087,Imran Menon,Pune,imran.menon2@example.com,Desk Lamp,2025-12-09,2025-12-12,2025-12-11,1,649,5.0,Delivered
+1088,Vikram Das,Hyderabad,vikram.das4@example.com,Running Shoes,2026-03-10,2026-03-14,2026-03-13,1,2199,0.0,Delivered
+1089,Ananya Reddy,Kolkata,ananya.reddy16@example.com,Wireless Mouse,2026-02-03,2026-02-07,,1,499,0.0,Cancelled
+1090,Suresh Reddy,Chennai,suresh.reddy94@example.com,Steel Bottle,2025-12-22,2025-12-27,2025-12-28,4,349,0.0,Delivered
+1091,Vikram Khan,Bengaluru,vikram.khan87@example.com,Bluetooth Speaker,2025-11-27,2025-12-02,2025-12-02,1,1299,10.0,Delivered
+1092,Arjun Reddy,Pune,arjun.reddy84@example.com,Desk Lamp,2026-02-10,2026-02-14,2026-02-14,2,649,15.0,Delivered
+1093,Rahul Reddy,Pune,rahul.reddy59@example.com,Desk Lamp,2026-01-24,2026-01-29,2026-01-30,1,649,15.0,Delivered
+1094,Priya Reddy,Mumbai,priya.reddy73@example.com,Backpack,2025-11-03,2025-11-07,2025-11-08,1,1099,10.0,Delivered
+1095,Rohan Patel,Pune,rohan.patel21@example.com,Bluetooth Speaker,2026-01-18,2026-01-24,2026-01-24,3,1299,0.0,Delivered
+1096,Aarav Iyer,Kolkata,aarav.iyer24@example.com,Steel Bottle,2026-01-14,2026-01-17,2026-01-16,4,349,5.0,Delivered
+1097,Vikram Khan,Chennai,vikram.khan61@example.com,Steel Bottle,2026-01-18,2026-01-22,2026-01-27,1,349,,Delivered
+1098,Priya Menon,Mumbai,priya.menon22@example.com,Running Shoes,2026-02-08,2026-02-11,2026-02-13,1,2199,20.0,Delivered
+1099,Suresh Reddy,Mumbai,suresh.reddy3@example.com,Wireless Mouse,2026-03-09,2026-03-12,,4,499,0.0,In Transit
+1100,Karthik Singh,Pune,karthik.singh87@example.com,Backpack,2026-01-15,2026-01-21,2026-01-21,1,1099,,Delivered
+1101,Rahul Gupta,Mumbai,rahul.gupta95@example.com,Backpack,2025-11-09,2025-11-13,,2,1099,20.0,Cancelled
+1102,Aarav Nair,Hyderabad,aarav.nair79@example.com,Backpack,2026-01-08,2026-01-13,2026-01-15,4,1099,20.0,Delivered
+1103,Karthik Gupta,Chennai,karthik.gupta49@example.com,Running Shoes,2025-11-23,2025-11-26,2025-11-26,1,2199,0.0,Delivered
+1104,Suresh Iyer,Hyderabad,suresh.iyer38@example.com,Phone Case,2025-11-22,2025-11-27,2025-11-27,1,299,20.0,Delivered
+1105,Karthik Sharma,Pune,karthik.sharma60@example.com,Running Shoes,2026-03-04,2026-03-07,,1,2199,10.0,In Transit
+1106,Imran Patel,Mumbai,imran.patel22@example.com,Desk Lamp,2025-12-22,2025-12-28,2025-12-29,1,649,0.0,Delivered
+1107,Sneha Menon,Delhi,sneha.menon84@example.com,Cotton Kurta,2026-01-04,2026-01-07,2026-01-08,2,799,5.0,Delivered
+1108,Divya Das,Mumbai,divya.das5@example.com,Cotton Kurta,2026-02-12,2026-02-16,,2,799,10.0,Cancelled
+1109,Aarav Patel,Hyderabad,aarav.patel26@example.com,Desk Lamp,2026-01-25,2026-01-29,2026-01-28,3,649,10.0,Delivered
+1110,Aarav Das,Chennai,aarav.das2@example.com,Running Shoes,2026-01-23,2026-01-26,2026-01-27,1,2199,15.0,Delivered
+1111,Rohan Iyer,Chennai,,Steel Bottle,2026-02-28,2026-03-03,2026-03-01,3,349,5.0,Delivered
+1112,Imran Patel,Mumbai,imran.patel36@example.com,Desk Lamp,2026-03-09,2026-03-13,,1,649,5.0,In Transit
+1113,Meera Reddy,Pune,meera.reddy65@example.com,Cotton Kurta,2025-12-11,2025-12-17,,2,799,20.0,Cancelled
+1114,Rahul Khan,Bengaluru,rahul.khan62@example.com,Bluetooth Speaker,2025-12-05,2025-12-09,2025-12-10,1,1299,5.0,Delivered
+1115,Rohan Reddy,Pune,rohan.reddy91@example.com,Cotton Kurta,2026-01-23,2026-01-26,2026-01-25,1,799,,Delivered
+1116,Priya Iyer,Bengaluru,priya.iyer35@example.com,Steel Bottle,2026-01-04,2026-01-07,2026-01-07,2,349,,Delivered
+1117,Meera Nair,Bengaluru,meera.nair22@example.com,Steel Bottle,2026-01-08,2026-01-14,2026-01-13,3,349,15.0,Delivered
+1118,Karthik Singh,Pune,karthik.singh95@example.com,Cotton Kurta,2026-02-17,2026-02-22,2026-02-21,2,799,20.0,Delivered
+1119,Kavya Das,Bengaluru,kavya.das68@example.com,Running Shoes,2026-02-10,2026-02-14,2026-02-15,1,2199,5.0,Delivered
+1120,priya REDDY  ,HYDERABAD,priya.reddy@example.com,Cotton Kurta,2026-01-31,2026-02-04,2026-02-04,2,799,0.0,Delivered
