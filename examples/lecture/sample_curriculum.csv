@@ -1,0 +1,5 @@
+Module,Week,Session,Title,Objective,Topics Covered,Guide
+Core Programming & Analytical Foundations,1,1.1,Introduction to SQL and SELECT,Query one table with SELECT and WHERE,SELECT; WHERE; ORDER BY; LIMIT,Industry Mentor
+Core Programming & Analytical Foundations,1,1.2,Aggregation and Grouping,Summarise rows with aggregate functions,COUNT; SUM; AVG; GROUP BY; HAVING,Industry Mentor
+Core Programming & Analytical Foundations,2,2.1,Text and Dates with Calculated Columns,Clean text and compute with dates,String functions; date functions; derived columns; aliases; ROUND and CAST; IS NULL,Industry Mentor
+Core Programming & Analytical Foundations,2,2.2,Joins,Combine two tables,INNER JOIN; LEFT JOIN; keys,Industry Mentor
