@@ -1,7 +1,9 @@
-# Pre-reads & Lecture scripts pipeline.
+# Pre-reads & Lecture Scripts Pipeline
 
-## File structure<sme-name>-curriculum/              ← one repo per SME / CC (e.g. ritick-curriculum)
+## File Structure
 
+```text
+<sme-name>-curriculum/              ← one repo per SME / CC (e.g. ritick-curriculum)
 ├── README.md
 ├── templates/
 │   ├── pre-read-template.md
@@ -22,9 +24,12 @@
 ├── <batch-id-3>/
 ├── <batch-id-4>/
 └── <batch-id-5>/
+```
 
-Naming rules: lowercase and hyphens only, numbered modules and lectures, and the same two file names everywhere (pre-read.md, lecture-script.md).
+## Naming Rules
 
-:file_folder: One repo per SME/CC (<your-name>-curriculum), edit access for everyone
-:open_file_folder: One folder per batch (same ID as the INI sheet) → module folders → lecture folders
-:page_facing_up: Each lecture folder has 2 files: pre-read.md and lecture-script.md
+Lowercase and hyphens only, numbered modules and lectures, and the same two file names everywhere (`pre-read.md`, `lecture-script.md`).
+
+- 📁 One repo per SME/CC (`<your-name>-curriculum`), edit access for everyone
+- 📂 One folder per batch (same ID as the INI sheet) → module folders → lecture folders
+- 📄 Each lecture folder has 2 files: `pre-read.md` and `lecture-script.md`
