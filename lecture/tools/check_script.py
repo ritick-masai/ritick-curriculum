@@ -212,7 +212,9 @@ def main(argv):
         for m in re.finditer(r'<img\s+[^>]*>', ln):
             tag = m.group(0)
             src = re.search(r'src="([^"]+)"', tag)
-            if not src or not os.path.exists(os.path.join(base, src.group(1))):
+            # a hosted image (https URL, e.g. S3) is accepted without a local file
+            hosted = bool(src) and src.group(1).startswith("https://")
+            if not src or not (hosted or os.path.exists(os.path.join(base, src.group(1)))):
                 fail(f"line {n}: image missing: {src.group(1) if src else tag[:40]}")
             if 'alt="' not in tag: fail(f"line {n}: image has no alt text")
             if 'width="900"' not in tag: fail(f"line {n}: image should use width=\"900\"")
